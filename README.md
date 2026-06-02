@@ -102,8 +102,18 @@ Cloud services can provide:
 | Virtual Machine | A software-based computer running inside another computer |
 
 ## 10. Cybersecurity Reflection
+Computer fundamentals are invaluable for cybersecurity because attackers and defenders both need to understand how systems work. 
+
+Security professionals use this knowledge to:
+- Secure operating systems
+- Analyze malware behavior
+- Monitor servers
+- Protect cloud environments
+- Build safe virtual labs
+- Investigate compromised machines
 
 ## 11. What I Learned
+From this module, I learned that computers are built in many layers. Hardware supports the operating system, the operating system runs the applications, the applications connect to networks, and servers/cloud systems provide services to these applications. The biggest takeaway I got from this is that cybersecurity depends heavily on understanding the systems being protected before they can actually be secured.
 
 ## References
 - TryHackMe. "Introduction to Cyber Security." TryHackMe, [https://tryhackme.com/](https://tryhackme.com/module/computer-fundamentals)
