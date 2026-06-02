@@ -11,10 +11,43 @@ Hardware is the physical part of the computer. Software is the programs and oper
 Basic Flow: [Hardware] -> [Operating System] -> [Applications] -> [Network / Internet] -> [Servers / Cloud Services]
 
 ## 3. Main Hardware Components
+| Component | Purpose |
+|---|---|
+| CPU | Processes instructions/logic and runs programs |
+| RAM | Temporarily stores active data |
+| Storage (HDD/SSD) | Saves files, applications, and the operating system |
+| Motherboard | Connects all major components |
+| GPU | Handles graphics and parallel processing |
+| Network Interface | Connects the computer to a network |
+| PSU | Supplies electricity to all system components |
 
 ## 4. Operating System Role
+The operating system manages the computer's hardware and software.
+
+Examples:
+- Windows
+- macOS
+- Linux
+- Android
+- iOS
+
+The operating system handles various tasks, including:
+- Processes
+- Memory
+- Files
+- Devices
+- User accounts
+- Network connections
 
 ## 5. Computer Types
+| Type | Example | Use |
+|---|---|---|
+| Desktop | Gaming PC, office PC | Personal or work computing |
+| Laptop | MacBook, Windows laptop | Portable computing |
+| Server | Web server, database server | Provides services to users |
+| Mobile Device | Phone, tablet | Portable apps and communication |
+| IoT Device | Smart camera, smart thermostat | Specialized connected device |
+| Embedded System | Router, car system, appliance chip | Runs a specific task |
 
 ## 6. Client-Server Model
 
