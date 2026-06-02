@@ -50,12 +50,56 @@ The operating system handles various tasks, including:
 | Embedded System | Router, car system, appliance chip | Runs a specific task |
 
 ## 6. Client-Server Model
+The client-server model explains how computers communicate with each other. A client requests a service. A server provides that service.
+
+Example:
+1. A laptop opens a website.
+2. The browser sends a request.
+3. The web server receives the request.
+4. The server sends back the webpage.
+5. The browser displays the page.
+
+| Role | Meaning |
+|---|---|
+| Client | Requests data or services |
+| Server | Provides data or services |
 
 ## 7. Virtualization Basics
+Virtualization allows one physical computer to run multiple virtual machines. Virtual machines act like separate computers, but share the same physical hardware using the host machine.
+
+Benefits:
+- Better hardware age
+- Safe testing environments
+- Easier backup and recovery
+- Isolated systems
+- Useful cybersecurity labs
+
+Example:
+[Physical Computer] -> [Hypervisor] -> [Virtual Machine 1: Linux] AND [Virtual Machine 2: Windows] AND [Virtual Machine 3: Security Lab]
 
 ## 8. Cloud Computing Basics
+Cloud computing allows users and businesses to access computing resources over the internet. Instead of buying and managing physical servers, companies can rent servers, storage, databases, and applications from cloud providers. There are different deployment types (public/private) and cloud service models (such as SaaS) that can be provided.
+
+Example Cloud Providers:
+- AWS
+- Microsoft Azure
+- Google Cloud
+
+Cloud services can provide:
+- Virtual machines
+- Storage
+- Databases
+- Websites
+- Security Tools
+- Backup
 
 ## 9. Virtualization vs Cloud Computing
+| Concept | Simple Meaning |
+|---|---|
+| Virtualization | Running multiple virtual computers on one physical machine |
+| Cloud Computing | Renting computing resources over the internet |
+| Hypervisor | Software that creates and manages virtual machines |
+| Virtual Machine | A software-based computer running inside another computer |
 
 ## 10. Cybersecurity Reflection
 
