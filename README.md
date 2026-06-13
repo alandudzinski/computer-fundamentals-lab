@@ -116,7 +116,7 @@ Security professionals use this knowledge to:
 From this module, I learned that computers are built in many layers. Hardware supports the operating system, the operating system runs the applications, the applications connect to networks, and servers/cloud systems provide services to these applications. The biggest takeaway I got from this is that cybersecurity depends heavily on understanding the systems being protected before they can actually be secured.
 
 ## References
-- TryHackMe. "Introduction to Cyber Security." TryHackMe, [https://tryhackme.com/](https://tryhackme.com/module/computer-fundamentals)
+- TryHackMe. "Computer Fundamentals." TryHackMe, [https://tryhackme.com/](https://tryhackme.com/module/computer-fundamentals)
 
 ## Disclaimer
 This project is for educational purposes only. It summarizes concepts learned through TryHackMe and does not include walkthrough answers, flags, or private room solutions.
